@@ -63,8 +63,8 @@ print(f"Received {data!r}")
 ~~~
 
 ## OUTPUT:
-[serverside](/Ex01/Echoserver/img/Server.png)
-[clientside](/Ex01/Echoserver/img/Client.png)
+![serverside](./img/Server.png))
+![clientside](./img/Client.png)
 
 ## RESULT:
 The program is executed successfully
